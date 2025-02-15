@@ -1,0 +1,52 @@
+header {
+    background-color: rgb(158, 65, 245);
+    text-align: center;
+}
+
+body{
+    background-image: url(m6up7z4yphh31.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+h1{ 
+    color:  rgb(153, 125, 179);
+    font-size: 3em;
+    font-style: italic;
+    font:bolder
+}
+
+p{
+    color: blue(197, 10, 10);
+    font-size: 1.2em;
+}
+
+h2{
+    color: aquamarine;
+    text-decoration: none;
+}
+
+dt{
+    color: aqua;
+    font-weight: bold;
+}
+
+dd{
+    color: aliceblue;
+    font-size: 1.1em;
+}
+
+main {
+    padding: 20px;
+    background-color: aqua;
+}
+
+section{
+    background: fixed;
+    margin: auto;
+}
+
+footer{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 20px;
+}
